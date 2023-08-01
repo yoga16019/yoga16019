@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 👋 Hello, I'm Indrayoga!
 
 🧠 Passionate about AI, Data Science, and Business Intelligence.
@@ -9,5 +9,4 @@
 
 📫 Reach me at indrayogaputra3008@gmail.com | LinkedIn: www.linkedin.com/in/indrayoga-putra-b5983814b
 
-#AI #DataScience #BusinessIntelligence #MachineLearning #DataVisualization #Python #SQL
--->
+
